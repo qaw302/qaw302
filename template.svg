@@ -18,24 +18,24 @@
     }
     .typing-1 {
       opacity: 0;
-      animation: fade-in-out 1.5s;
+      animation: fade-in-out 1s;
     }
     .msg-1 {
-      animation: wait 1.7s, msg-1 0.2s 1.7s;
+      animation: wait 1s, msg-1 0.2s 1s;
     }
     .typing-2 {
       opacity: 0;
-      animation: wait 2.5s, fade-in-out 1.5s 2.5s;
+      animation: wait 2s, fade-in-out 1.5s 2s;
     }
     .msg-2 {
-      animation: wait 4.2s, msg-2 0.2s 4.2s;
+      animation: wait 3s, msg-2 0.2s 3s;
     }
     .typing-3 {
       opacity: 0;
-      animation: wait 5s, fade-in-out 1.5s 5s;
+      animation: wait 4s, fade-in-out 1.5s 4s;
     }
     .msg-3 {
-      animation: wait 6.7s, msg-3 0.2s 6.7s;
+      animation: wait 5s, msg-3 0.2s 5s;
     }
     @keyframes wait {
       0%,
